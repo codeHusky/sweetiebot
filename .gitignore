@@ -14,3 +14,13 @@ main/token
 main/email
 sweetiebot_data.sql
 sweetiebot_data.sql
+main/staging/token
+main/staging/db.auth
+main/staging/299342959789342723.json
+main/run.bat
+main/run staging.bat
+main/lrpc/token
+main/lrpc/db.auth
+main/lrpc/279317830779011074.json
+main/LRPC Bot Runner.bat
+.settings/com.googlecode.goclipse.core.prefs
